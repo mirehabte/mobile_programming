@@ -1,0 +1,2 @@
+fun forgotPasswordClickHandler(view: View) {
+}
